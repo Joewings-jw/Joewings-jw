@@ -6,7 +6,7 @@
 #### Lets link up
 #### Linkedin: [Joseph Ngugi](https://www.linkedin.com/in/joseph-ngugi-443026145/)
 #### 
-- 🔭 I’m currently working on angular 11.
+- 🔭 I’m currently working on angular 10+.
 - 🌱 Currently learning Design patterns.
 - 🥅 2021 Goals: Health is wealth.
 - ⚡ Fun fact: It is a design world,and everything can be redesigned.
