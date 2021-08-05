@@ -4,7 +4,7 @@
 #### I am Joseph,a Javascript frontend developer based in Nairobi kenya.
 #### I am more than willing to collaborate in a team for open source projects or any idea that changes the world one line of code at a time.
 #### Lets link up
-#### Linkedin: [Joseph Ngugi](https://www.linkedin.com/in/joseph-ngugi-443026145/)
+#### Linkedin: [Joseph Ngugi](https://www.linkedin.com/in/joseph-dev)
 #### 
 - 🔭 I’m currently working on angular 10+.
 - 🌱 Currently learning Design patterns.
