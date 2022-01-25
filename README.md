@@ -8,7 +8,7 @@
 #### 
 - 🔭 I’m currently working on angular 10+.
 - 🌱 Currently learning Design patterns.
-- 🥅 2021 Goals: Health is wealth.
+- 🥅 2022: Intentional living.
 - ⚡ Fun fact: It is a design world,and everything can be redesigned.
 
 
