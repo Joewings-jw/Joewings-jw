@@ -1,4 +1,3 @@
-### ![github](https://user-images.githubusercontent.com/60609518/122293290-88adb580-ceff-11eb-9c6e-1020a56c77d1.jpg)
 ### Hi there 👋
 
 #### I am Joseph,a Javascript frontend developer based in Nairobi kenya.
