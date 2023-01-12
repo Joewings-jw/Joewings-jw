@@ -18,7 +18,7 @@ Interested in Education, Fintech, and Web3.
 - Startups
 - Collaborations to build something great
 
-If you'd love to talk, [lets connect on LinkedIn](https://www.linkedin.com/in/joseph-wings) or email me at josephngugi.dev@gmail.com
+If you'd love to talk, [lets connect on LinkedIn](https://www.linkedin.com/in/dev-joseph) or email me at josephngugi.dev@gmail.com
 
 ## Tech Stack & Tools
 
@@ -43,4 +43,4 @@ If you'd love to talk, [lets connect on LinkedIn](https://www.linkedin.com/in/jo
 
 ## Lets connect
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/wings?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com)
-[![LinkedIn Profile Badge](https://img.shields.io/badge/LinkedIn-2D9CDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-wings)
+[![LinkedIn Profile Badge](https://img.shields.io/badge/LinkedIn-2D9CDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joseph)
