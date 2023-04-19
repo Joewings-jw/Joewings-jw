@@ -1,7 +1,5 @@
 ## Hi there, I'm Joseph 👋
-Results-oriented **Software Engineer** with a focus on design and implementation. Skilled in Agile processes, Back-end and Front-end development, serverless and microservices architectures. I have **three years of professional experience** building robust systems and scalable customer-focused products using cutting-edge technologies with local and internation teams.
-
-Passionate about **startups**. Trying to be a valuable part of any team and believe in team success, growth, and rising together.
+As a results-driven Software Engineer with a passion for startups, I thrive on designing and implementing innovative solutions. My expertise in Agile processes, Back-end and Front-end development, erverless and microservices architectures has enabled me to build robust systems and scalable customer-focused products. With three years of professional experience working with local and international teams, I understand the importance of collaboration and believe in the power of team success. Let's rise together and create something great!
 
 Interested in Education, Fintech, and Web3.
 - 🔭 &nbsp;I’m currently working on a software solution that impact the way we learn maths. [Check it out](https://modusoperandiapp.page.link/shareApp)
@@ -21,25 +19,48 @@ Interested in Education, Fintech, and Web3.
 If you'd love to talk, [lets connect on LinkedIn](https://www.linkedin.com/in/dev-joseph) or email me at josephngugi.dev@gmail.com
 
 ## Tech Stack & Tools
+<table><tr><td valign="top" width="33%">
 
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="57" /> &emsp;
-  <img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" title="Node JS" alt="Node JS Logo" width="56"/> &ensp;
-  <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" title="Python" alt="Python Logo" width="56"/> &ensp;
-  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" title="Angular" alt="Angular Logo" width="55" /> &emsp;
-  <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" title="React JS" alt="React Logo" width="64" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="78" /> &emsp;
-  <img src="https://cdn.cdnlogo.com/logos/f/54/figma.svg" title="Figma" alt="Figma Logo" width="86"/> &emsp;
-  <img src="https://cdn.cdnlogo.com/logos/f/11/firebase.svg" title="Firebase" alt="Firebase Logo" width="45"/> &ensp;
-  <img src="https://cdn.cdnlogo.com/logos/g/75/google-cloud.svg" title="GCP" alt="GCP Logo" width="56"/> &ensp;
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="56"/> &emsp;
-  <img src="https://cdn.cdnlogo.com/logos/p/93/postgresql.svg" title="MySQL" alt="MySQL Logo" width="56"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="62"/> &emsp;
-  <img src="https://cdn.cdnlogo.com/logos/l/21/linux-tux.svg" title="Docker" alt="Docker Logo" width="62"/> &emsp;
-</p>
+<div align="center">
+<img style="margin: 10px" src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" alt="React" height="50" />
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS" height="50" />  
+<img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/main/logos/bootstrap.svg" alt="Bootstrap" height="50" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" height="50" />
+<img style="margin: 10px" src="https://cdn.cdnlogo.com/logos/f/54/figma.svg" alt="Figma" height="50" />
+</div>
+  
+</td><td valign="top" width="33%">
+  
+
+  
+<div align="center">  
+<img style="margin: 10px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" alt="Python" height="50" />   
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/main/logos/express.svg" alt="Express.js" height="50" />
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://cdn.cdnlogo.com/logos/f/11/firebase.svg" alt="Firebase" height="50" />  
+</div>
+  
+
+</td><td valign="top" width="33%">
+    
+<div align="center">  
+<img style="margin: 10px" src="https://cdn.cdnlogo.com/logos/l/21/linux-tux.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/main/logos/jenkins.svg" alt="Jenkins" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="62"/> &emsp;
+<img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/main/logos/bash.svg" alt="Bash" height="50" />
+<img src="https://cdn.cdnlogo.com/logos/g/75/google-cloud.svg" title="GCP" alt="GCP Logo" width="56"/> &ensp;
+</div>
+
+</td></tr></table>  
+
+<br/>
+
 
 ## Lets connect
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/wings?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com)
