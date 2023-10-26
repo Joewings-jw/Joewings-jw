@@ -1,10 +1,14 @@
-## Hi there, I'm Joseph 👋
-As a results-driven Software Engineer with a passion for startups, I thrive on designing and implementing innovative solutions. My expertise in Agile processes, Back-end and Front-end development, erverless and microservices architectures has enabled me to build robust systems and scalable customer-focused products. With three years of professional experience working with local and international teams, I understand the importance of collaboration and believe in the power of team success. Let's rise together and create something great!
+Greetings!👋 I'm Joseph, a passionate Software Engineer with a dedication to innovation. Specializing in startups, I craft customer-focused solutions, adept in Back-end and Front-end development with expertise in serverless and microservices architectures. Over three years, I've honed my skills, committed to building robust and scalable systems. Collaborating with diverse teams locally and internationally, I understand the power of collective success. Beyond coding, I'm a math enthusiast exploring 
+[projects](https://ngugi-dev.vercel.app/projects/).
+ 🚀 for insights into algorithms, coding, and tech🤖. Check out my 
+[articles](https://ngugi-dev.vercel.app/blog/)
+ ✍️ for thoughts on life, web development 💻, and the captivating world of system design 🧠.
+ 
 
-Interested in Education, Fintech, and Web3.
-- 🔭 &nbsp;I’m currently working on a software solution that impact the way we learn maths. [Check it out](https://modusoperandiapp.page.link/shareApp)
+Interested in Microservices, serverless architectures and data intensive applications.
+- 🔭 &nbsp;I’m currently building [Hesabu](https://ngugi-dev.vercel.app/blog/2023/hesabu/).
 - 🏢 &nbsp;Software Engineer, Mentor, and Blogger
-- 🌱 &nbsp;Currently learning Next.js, and cloud engineering
+- 🌱 &nbsp;Currently learning Golang, and cloud engineering
 - 💬 &nbsp;I would be happy to help you learn web development
 
 ## Open to
