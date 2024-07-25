@@ -25,6 +25,8 @@
 <code><img height="20" alt="linux" src="https://cdn.cdnlogo.com/logos/l/21/linux-tux.svg"></code>
 <code><img height="20" alt="git" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
 
+-------
+
 📊 **Weekly Development Breakdown**
 
 <!--START_SECTION:waka-->
