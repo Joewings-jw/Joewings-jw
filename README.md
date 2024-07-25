@@ -29,6 +29,21 @@
 
 <!--START_SECTION:waka-->
 
+```rust
+From: 27 March 2022 - To: 24 July 2024
+
+Total Time: 1,417 hrs 42 mins
+
+TypeScript       399 hrs 39 mins >>>>>>>------------------   27.39 %
+Python           391 hrs 35 mins >>>>>>>------------------   26.84 %
+JavaScript       202 hrs 4 mins  >>>----------------------   13.85 %
+HTML             104 hrs 9 mins  >>-----------------------   07.14 %
+Text             71 hrs 25 mins  >------------------------   04.89 %
+JSON             52 hrs 4 mins   >------------------------   03.57 %
+Markdown         44 hrs 9 mins   >------------------------   03.03 %
+Other            41 hrs 27 mins  >------------------------   02.84 %
+```
+
 <!--END_SECTION:waka-->
 
 📧 Reach out: [email](mailto:josephngugi.dev@gmail.com)
