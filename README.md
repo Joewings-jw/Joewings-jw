@@ -11,6 +11,10 @@ Interested in Microservices, serverless architectures and data intensive applica
 - 🌱 &nbsp;Currently learning Golang, and cloud engineering
 - 💬 &nbsp;I would be happy to help you learn web development
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Open to
 
 - Mentorship
