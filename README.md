@@ -32,12 +32,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 June 2024 - To: 28 July 2024
+From: 29 June 2024 - To: 29 July 2024
 
-Total Time: 74 hrs 39 mins
+Total Time: 74 hrs 40 mins
 
-Python       33 hrs 21 mins  ██████████▓░░░░░░░░░░░░░░   43.23 %
-TypeScript   30 hrs 26 mins  ██████████░░░░░░░░░░░░░░░   39.46 %
+Python       33 hrs 22 mins  ██████████▓░░░░░░░░░░░░░░   43.25 %
+TypeScript   30 hrs 26 mins  ██████████░░░░░░░░░░░░░░░   39.45 %
 Markdown     2 hrs 47 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 Other        2 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
