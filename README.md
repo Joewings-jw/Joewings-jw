@@ -32,14 +32,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 July 2024 - To: 20 August 2024
+From: 22 July 2024 - To: 21 August 2024
 
-Total Time: 16 hrs 55 mins
+Total Time: 12 hrs 39 mins
 
-Python       7 hrs 48 mins   ██████████▒░░░░░░░░░░░░░░   41.00 %
-MDX          4 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
-Markdown     2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
-Other        2 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+MDX          4 hrs 1 min     ███████▓░░░░░░░░░░░░░░░░░   30.80 %
+Python       3 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   23.83 %
+Markdown     2 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   19.48 %
+TypeScript   1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+YAML         52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
