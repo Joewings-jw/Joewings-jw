@@ -1,4 +1,5 @@
-<h2 align="center">👋 Hello! I'm Joseph.</h2>
+NCJKX xK nvjkjdsF nkx  oksdinnijsF JO;JSDFDW
+ NV  NciJDIODwqDKILJV jksiasdfklixwepoonsdfiuiodfasnbkcvh vLKPOWQJkIFIFWEJUDFNNNSDFI;JKLSDF9EIORDUROERUNKCSLXJLKDSF;JDASHFDHGBVNXCKJF;DSAF<h2 align="center">👋 Hello! I'm Joseph.</h2>
 <p align="center">
   <a href="#">Blog</a> •
   <a href="https://www.linkedin.com/in/dev-joseph">LinkedIn</a> •
@@ -30,20 +31,6 @@
 📊 **Monthly Development Breakdown**
 
 <!--START_SECTION:waka-->
-
-```rust
-From: 22 July 2024 - To: 21 August 2024
-
-Total Time: 12 hrs 39 mins
-
-MDX          4 hrs 1 min     ███████▓░░░░░░░░░░░░░░░░░   30.80 %
-Python       3 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   23.83 %
-Markdown     2 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   19.48 %
-TypeScript   1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-YAML         52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-```
-
 <!--END_SECTION:waka-->
 
 📧 Reach out: [email](mailto:josephngugi.dev@gmail.com)
