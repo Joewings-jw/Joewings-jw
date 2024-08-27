@@ -32,16 +32,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 July 2024 - To: 25 August 2024
+From: 27 July 2024 - To: 26 August 2024
 
-Total Time: 12 hrs 15 mins
+Total Time: 14 hrs 27 mins
 
-MDX          6 hrs 23 mins   ████████████▒░░░░░░░░░░░░   49.98 %
-TypeScript   2 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.36 %
-Markdown     1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Python       55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-YAML         47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-Other        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+MDX          7 hrs 41 mins   █████████████░░░░░░░░░░░░   51.42 %
+TypeScript   3 hrs           █████░░░░░░░░░░░░░░░░░░░░   20.11 %
+Markdown     1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Python       49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+YAML         47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+JSON         47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Other        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
