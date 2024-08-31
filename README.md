@@ -32,18 +32,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 July 2024 - To: 29 August 2024
+From: 31 July 2024 - To: 30 August 2024
 
-Total Time: 30 hrs 28 mins
+Total Time: 35 hrs 26 mins
 
-MDX           15 hrs 2 mins   ████████████░░░░░░░░░░░░░   48.41 %
-TypeScript    9 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   31.52 %
-JSON          1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Markdown      1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-YAML          1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Python        48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Image (svg)   36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Other         36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+MDX           15 hrs 19 mins  ██████████▓░░░░░░░░░░░░░░   42.49 %
+TypeScript    14 hrs 15 mins  ██████████░░░░░░░░░░░░░░░   39.54 %
+JSON          1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Markdown      1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+YAML          1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Image (svg)   53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Other         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
