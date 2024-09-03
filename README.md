@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m a Software Developer with a passion for e-commerce and edtech
+- 🔭 I'm a Software Engineer with a love for all things tech—throw in AI and machine learning, and I'm all in!!
 - 💬 Open to collaborations on freelance projects
 - 🌳 Enthusiast of forest bathing and continuous learning
 - 📊 Math lover: Always intrigued by the Collatz conjecture and its endless loops
