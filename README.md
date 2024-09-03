@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Joseph.</h2>
 <p align="center">
-  <a href="#">Blog</a> •
+  <a href="https://ngugi-dev-blog-page.vercel.app/blog/">Blog</a> •
   <a href="https://www.linkedin.com/in/dev-joseph">LinkedIn</a> •
   <a href="#">Twitter</a> 
 </p>
