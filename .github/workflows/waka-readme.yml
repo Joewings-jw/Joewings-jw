@@ -26,8 +26,8 @@ jobs:
           TIME_RANGE: all_time
           LANG_COUNT: 10
           SHOW_LINES_OF_CODE: true
-          SHOW_TIME: true
-          SHOW_TOTAL: true
+          SHOW_TIME: false
+          SHOW_TOTAL: false
           SHOW_OS: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true 
