@@ -27,7 +27,7 @@
 
 -------
 
-📊 **Monthly Development Breakdown**
+📊 **Wakatime Development Breakdown**
 
 <!--START_SECTION:waka-->
 
