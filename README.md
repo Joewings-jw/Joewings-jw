@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 December 2024 - To: 10 January 2025
+From: 12 December 2024 - To: 11 January 2025
 
 Python                   ████████████████████████░   96.19 %
 Bash                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
