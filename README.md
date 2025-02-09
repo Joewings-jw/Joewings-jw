@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 January 2025 - To: 07 February 2025
+From: 09 January 2025 - To: 08 February 2025
 
 Astro                                      █████████████▒░░░░░░░░░░░   53.39 %
 Python                                     ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
