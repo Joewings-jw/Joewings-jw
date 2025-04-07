@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 March 2025 - To: 05 April 2025
+From: 07 March 2025 - To: 06 April 2025
 
 Vue.js                       █████████████░░░░░░░░░░░░   52.35 %
 Markdown                     ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
