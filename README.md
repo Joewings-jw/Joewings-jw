@@ -48,5 +48,10 @@ Other                        ░░░░░░░░░░░░░░░░░
 
 📧 Reach out: [email](mailto:josephngugi.dev@gmail.com)
 
-### Connect on LinkedIn
-[![LinkedIn Profile Badge](https://img.shields.io/badge/LinkedIn-2D9CDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joseph)
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dev-joseph" 
+   target="_blank" 
+   style="display:block; padding:7px; text-align:center; color:#ffffff; width:200px; height:32px; border-radius:16px; background-color:#0A66C2; font-family:Helvetica, sans-serif; text-decoration:none;">
+   Follow on LinkedIn
+</a>
+
+
