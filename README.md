@@ -51,7 +51,7 @@ Other                        ░░░░░░░░░░░░░░░░░
 <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dev-joseph" 
    target="_blank" 
    style="display:block; padding:7px; text-align:center; color:#ffffff; width:200px; height:32px; border-radius:16px; background-color:#0A66C2; font-family:Helvetica, sans-serif; text-decoration:none;">
-   Follow on LinkedIn
+   Follow me on LinkedIn
 </a>
 
 
