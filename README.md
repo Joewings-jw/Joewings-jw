@@ -5,7 +5,6 @@
   <a href="#">Twitter</a> 
 </p>
 
-
 - 🔭 I'm a Software Engineer with a love for all things tech—throw in AI and machine learning, and I'm all in!!
 - 💬 Open to collaborations on freelance projects
 - 🌳 Enthusiast of forest bathing and continuous learning
@@ -14,33 +13,31 @@
 
 -------
 
-
 ### Skills
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="python" src="https://cdn.cdnlogo.com/logos/p/3/python.svg"></code>
-<code><img height="20" alt="docker" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
-<code><img height="20" alt="gcp" src="https://cdn.cdnlogo.com/logos/g/75/google-cloud.svg"></code>
-<code><img height="20" alt="linux" src="https://cdn.cdnlogo.com/logos/l/21/linux-tux.svg"></code>
-<code><img height="20" alt="git" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="25" height="25"/>
+<img src="https://cdn.cdnlogo.com/logos/g/75/google-cloud.svg" alt="Google Cloud" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="25" height="25"/>
+</p>
 
 -------
 
 📊 **Monthly Development Breakdown**
-
 <!--START_SECTION:waka-->
-
 ```rust
 From: 04 June 2025 - To: 04 July 2025
-
 Vue.js                       ███████░░░░░░░░░░░░░░░░░░   28.01 %
 JavaScript                   █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
 TypeScript                   ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
 Text                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
-
 <!--END_SECTION:waka-->
 
 📧 Reach out: [email](mailto:josephngugi.dev@gmail.com)
@@ -50,5 +47,4 @@ Other                        ▓░░░░░░░░░░░░░░░░
    style="display:block; padding:7px; text-align:center; color:#ffffff; width:200px; height:32px; border-radius:16px; background-color:#0A66C2; font-family:Helvetica, sans-serif; text-decoration:none;">
    Follow me on LinkedIn
 </a>
-
 
