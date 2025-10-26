@@ -32,12 +32,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 September 2025 - To: 24 October 2025
+From: 25 September 2025 - To: 25 October 2025
 
-TypeScript                   ███████████░░░░░░░░░░░░░░   43.39 %
-Markdown                     █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
-JavaScript                   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-Assembly                     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Markdown                     ██████████████▒░░░░░░░░░░   57.73 %
+TypeScript                   ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
+JavaScript                   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 ```
 
 <!--END_SECTION:waka-->
