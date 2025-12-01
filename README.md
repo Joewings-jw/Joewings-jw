@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 October 2025 - To: 29 November 2025
+From: 31 October 2025 - To: 30 November 2025
 
 TypeScript                     ███████████▓░░░░░░░░░░░░░   46.68 %
 Markdown                       ████████░░░░░░░░░░░░░░░░░   32.27 %
