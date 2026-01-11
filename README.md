@@ -32,12 +32,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 December 2025 - To: 09 January 2026
+From: 11 December 2025 - To: 10 January 2026
 
-TypeScript                   ██████████████▒░░░░░░░░░░   57.43 %
-Markdown                     ████████░░░░░░░░░░░░░░░░░   32.58 %
-JavaScript                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-jsonc                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Markdown                     ███████████████████▒░░░░░   77.84 %
+TypeScript                   ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+JavaScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
