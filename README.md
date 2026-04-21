@@ -36,6 +36,16 @@ Currently deep in system design and the security layer of AI-powered SaaS produc
 -------
 📊 **Monthly Development Breakdown**
 <!--START_SECTION:waka-->
+
+```rust
+From: 21 March 2026 - To: 20 April 2026
+
+TypeScript                                       █████████████████▒░░░░░░░   69.00 %
+Python                                           ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+Markdown                                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Other                                            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+```
+
 <!--END_SECTION:waka-->
 
 📧 Reach out: [email](mailto:josephngugi.dev@gmail.com)
