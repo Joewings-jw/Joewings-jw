@@ -1,15 +1,16 @@
-<h2 align="center">👋 Hello! I'm Joseph.</h2>
-<p align="center">
+<h2 align="left">Hello, World! 👋  I'm Joseph.</h2>
+<p align="left">
   <a href="https://ngugi-dev-blog-page.vercel.app/blog/">Blog</a> •
-  <a href="https://www.linkedin.com/in/dev-joseph">LinkedIn</a> •
-  <a href="#">Twitter</a> 
+  <a href="https://www.linkedin.com/in/dev-joseph">LinkedIn</a>
 </p>
 
-Software Engineer across FinTech, EdTech, and global e-commerce. I build AI agents, resilient APIs, and production-grade automation systems at scale. No problem too complex. No stack too unfamiliar..
+Software Engineer across FinTech, EdTech, and global e-commerce. 
+
+I build AI agents, resilient APIs, and production-grade automation systems at scale. 
+
+No problem too complex. No stack too unfamiliar..
 
 Currently deep in system design and the security layer of AI-powered SaaS products.
-
--------
 
 ### Skills
 
@@ -33,7 +34,6 @@ Currently deep in system design and the security layer of AI-powered SaaS produc
 <td><img src="https://cdn.simpleicons.org/anthropic" alt="Claude Code" width="25" height="25"/></td>
 </tr></table>
 
--------
 📊 **Monthly Development Breakdown**
 <!--START_SECTION:waka-->
 
