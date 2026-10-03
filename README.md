@@ -38,11 +38,12 @@ Currently deep in system design and the security layer of AI-powered SaaS produc
 <!--START_SECTION:waka-->
 
 ```rust
-From: 31 August 2026 - To: 30 September 2026
+From: 01 September 2026 - To: 01 October 2026
 
-JavaScript                         ████████░░░░░░░░░░░░░░░░░   31.75 %
-HTML                               ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-Other                              ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+JavaScript                         ████████░░░░░░░░░░░░░░░░░   31.35 %
+HTML                               ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+Markdown                           ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Other                              ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
 ```
 
 <!--END_SECTION:waka-->
